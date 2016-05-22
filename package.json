@@ -1,5 +1,5 @@
 {
-  "name": "codemap",
+  "name": "code-map",
   "version": "1.0.0",
   "description": "mapping code to status",
   "main": "index.js",
